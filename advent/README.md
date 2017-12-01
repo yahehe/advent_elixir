@@ -1,6 +1,6 @@
 # Advent
 
-**TODO: Add description**
+Implementations for the 2017 Advent of Code challenge
 
 ## Installation
 
@@ -21,4 +21,9 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
       [applications: [:advent]]
     end
     ```
+
+## Testing
+
+`cd advent`
+`mix test`
 
